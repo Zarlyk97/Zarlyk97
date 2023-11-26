@@ -1,10 +1,22 @@
-- 👋 Hi, I’m @Zarlyk Janybekov
-- 👀 I'm interested in creating applications..
-- 🌱 I’m currently improving my Flutter skills.
-- 💞️ I’m looking help with Team development ...
+### Hello There, I'm Zarlyk Zhanybekov! 👋
 
 
-<!---
-ZarlykJ/ZarlykJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<a href="https://www.linkedin.com/in/aibekdv">
+  <img align="left" alt="M.A's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://instagram.com/zarlyk_zhanybekov">
+  <img align="left" alt="M.A's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<a href="https://github.com/aibekdv">
+  <img align="left" alt="M.A's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+
+</a>
+
+<br/>
+<br/>
+
+
+- 🌱 I’m currently improving my Flutter and Android dev skills.
+- 💬 Ask me about Flutter and Android dev.
+- 📫 How to reach me: LinkedIn : [@aibekdv](https://www.linkedin.com/in/aibekdv)
