@@ -1,4 +1,4 @@
-### Hello👋 There, I'm Zarlyk Zhanybekov! 
+### Hello There, 👋 I'm Zarlyk Zhanybekov! 
 
 
 
